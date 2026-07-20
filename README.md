@@ -22,6 +22,7 @@ This project is a console-based Expense Tracker that helps users store, manage, 
 * Java
 * JDBC
 * MySQL
+* SQL aggregate functions (GROUP BY, SUM, COUNT) for reporting
 
 ## ⚙️ How to Run
 
